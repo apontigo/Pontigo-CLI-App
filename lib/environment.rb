@@ -1,6 +1,7 @@
 require "require_all"
 require "pry"
 require "nokogiri"
+
 require "open-uri"
 require 'net/http'
 require 'json'
