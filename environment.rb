@@ -1,0 +1,5 @@
+require "pry"
+require "nokogiri"
+require "open-uri"
+require "openssl"
+require_relative "review.rb"
